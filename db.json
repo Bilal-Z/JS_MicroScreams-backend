@@ -3,17 +3,17 @@
 		{
 			"id": 0,
 			"title": "AAAAAAAAA",
-			"content": "AAAAAAAAAAAAAAAAAAAAA"
+			"body": "AAAAAAAAAAAAAAAAAAAAA"
 		},
 		{
 			"id": 1,
 			"title": "AAA",
-			"content": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"body": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 		},
 		{
 			"id": 2,
 			"title": "AAAAAAAAAAAAAAAAAAAAAAA",
-			"content": "AAAAAAAAAAAAA"
+			"body": "AAAAAAAAAAAAA"
 		}
 	]
 }
